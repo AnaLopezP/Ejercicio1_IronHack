@@ -1,6 +1,17 @@
 #fila1 {
     background-color: rgb(244, 255, 97);
 }
-#header2 {
+#header {
     float: left;
+    width: 25%
+}
+#header2 {
+    width: 75%;
+}
+
+.margen-abajo {
+    margin-bottom: 10px;
+}
+.margen-derecha {
+    margin-right: 10px;
 }
