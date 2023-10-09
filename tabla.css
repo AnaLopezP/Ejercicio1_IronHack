@@ -8,10 +8,20 @@
 #header2 {
     width: 75%;
 }
+#fila2{
+    float: left;
+}
+#columna {
+    float: left;
+    width: 25%;
+}
+#columna2 {
+    width: 75%;
+}
 
 .margen-abajo {
     margin-bottom: 10px;
 }
 .margen-derecha {
-    margin-right: 10px;
+   margin-right: 10px;
 }
