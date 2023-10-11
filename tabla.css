@@ -21,6 +21,7 @@
 }
 #columna2 {
     width: 75%;
+    float: center
 
 }
 #sidebar {
@@ -39,11 +40,15 @@
 }
 
 #main {
-    text-align: left;
-    height: 50%;
+    height: 65%;
     width: 90%;
     background-color: pink;
-    text-align: center;
+    
+}
+#footer {
+    height: 10%;
+    width: 90%;
+    background-color: rgb(101, 101, 184);
 }
 
 .margen-abajo {
