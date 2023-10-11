@@ -4,20 +4,46 @@
 }
 #header {
     float: left;
-    width: 25%
+    width: 25%;
+    text-align: center;
+    
 }
 #header2 {
     width: 75%;
+    text-align: center;
 }
-#fila2{
-    float: left;
-}
-#columna {
+
+#columna1 {
     float: left;
     width: 25%;
+    height: 75%;
+    padding: 10px;
 }
 #columna2 {
     width: 75%;
+
+}
+#sidebar {
+    text-align: left;
+    height: 50%;
+    width: 90%;
+    background-color: paleturquoise;
+    text-align: center;
+}
+#sidebar2 {
+    text-align: left;
+    height: 50%;
+    width: 90%;
+    background-color: paleturquoise;
+    text-align: center;
+}
+
+#main {
+    text-align: left;
+    height: 50%;
+    width: 90%;
+    background-color: pink;
+    text-align: center;
 }
 
 .margen-abajo {
